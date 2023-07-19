@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SOMTYCFC</string>
+    <string name="user_name">Nwosu Somtochukwu</string>
+    <string name="work">Android App Developer</string>
+    <string name="phone_number">+234 810 350 6976</string>
+    <string name="mail">emmasomty@gmail.com</string>
+    <string name="social_media">\@SomtyCFC</string>
+    <string name="avatar">Display avatar</string>
+</resources>
